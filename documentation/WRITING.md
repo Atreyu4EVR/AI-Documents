@@ -1,4 +1,4 @@
-```markdown
+
 # Future of Writing & Writing Instruction in the Disciplines and Professions  
 **White Paper**  
 David Kaufer & Suguru Ishizaki  
@@ -268,5 +268,3 @@ Strategic, research-based integration of AI can help more people enjoy effective
 Dietrich College of Humanities & Social Sciences  
 Carnegie Mellon University  
 5000 Forbes Ave. Pittsburgh, PA 15213  
-```
-*(End of extracted content)*
